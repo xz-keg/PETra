@@ -1,6 +1,4 @@
-# SEM
-Transformer and Phylogenetic Tree-based SARS-CoV-2 Mutation Prediction Model
-
-To be released. 
+# PETra
+Pretrained Evolutionary Transformer for SARS-CoV-2.
 
 Inference: http://cpredict.cn
