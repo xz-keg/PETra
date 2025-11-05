@@ -22,7 +22,7 @@ Performance:
 Baseline:
 Bloom estimator: https://github.com/jbloomlab/SARS2-mut-fitness
 
-### Table 2: Nucleotide mutation prediction results for **PETRA**
+### Nucleotide mutation prediction results for **PETRA**
 
 We report average and weighted recall @1, 10, and 100.
 In weighted measure, sequences are weighted by their representativeness.
@@ -35,7 +35,7 @@ In weighted measure, sequences are weighted by their representativeness.
 
 ---
 
-### Table 3: Spike amino-acid mutation prediction results for **PETRA**
+### Spike amino-acid mutation prediction results for **PETRA**
 
 We report average and weighted recall @1 and 10.
 In weighted measure, sequences are weighted by their representativeness.
