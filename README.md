@@ -15,7 +15,37 @@ model weights:[ on huggingface.](https://huggingface.co/xz-keg/PETRA/)
 
 Independent "Readme.txt" about the usage of data preprocess code and model training code can be found in their directories respectively. 
 
+Performance: 
 
 
+---
+Baeline:
+Bloom estimator: https://github.com/jbloomlab/SARS2-mut-fitness
+
+### Table 2: Nucleotide mutation prediction results for **PETRA**
+
+We report average and weighted recall @1, 10, and 100.
+In weighted measure, sequences are weighted by their representativeness.
+
+| **Method**           | **Average Recall @1** |    **@10** |   **@100** | **Weighted Recall @1** |    **@10** |   **@100** |
+| -------------------- | --------------------: | ---------: | ---------: | ---------------------: | ---------: | ---------: |
+| Random Guess         |                 0.00% |      0.01% |      0.08% |                  0.00% |      0.01% |      0.08% |
+| Bloom                |                 0.45% |      1.50% |      9.15% |                  0.49% |      1.48% |      9.41% |
+| **PETRA**            |            **11.34%** | **16.92%** | **22.64%** |              **9.45%** | **14.20%** | **19.72%** |
+
+---
+
+### Table 3: Spike amino-acid mutation prediction results for **PETRA**
+
+We report average and weighted recall @1 and 10.
+In weighted measure, sequences are weighted by their representativeness.
+
+| **Method**           | **Average Recall @1** |    **@10** | **Weighted Recall @1** |    **@10** |
+| -------------------- | --------------------: | ---------: | ---------------------: | ---------: |
+| Random Guess         |                 0.01% |      0.13% |                  0.01% |      0.13% |
+| Bloom                |                 6.26% |     12.63% |                  6.64% |     13.08% |
+| **PETRA**            |            **17.84%** | **25.69%** |             **17.10%** | **25.58%** |
+
+---
 
 
