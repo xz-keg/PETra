@@ -19,7 +19,7 @@ Performance:
 
 
 ---
-Baeline:
+Baseline:
 Bloom estimator: https://github.com/jbloomlab/SARS2-mut-fitness
 
 ### Table 2: Nucleotide mutation prediction results for **PETRA**
