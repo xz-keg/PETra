@@ -1,0 +1,105 @@
+# -----------------------------
+# OS-specific files
+# -----------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.apdisk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# -----------------------------
+# Editors / IDEs / tooling
+# -----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.orig
+
+# -----------------------------
+# Logs and temporary files
+# -----------------------------
+*.log
+*.out
+*.err
+logs/
+tmp/
+temp/
+.cache/
+
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# Testing and coverage
+.pytest_cache/
+.hypothesis/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.mypy_cache/
+.pyre/
+.pytype/
+.tox/
+pytestdebug.log
+
+# Packaging and build artifacts
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+sdist/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# -----------------------------
+# Optional: common project folders
+# Uncomment if you don't want to track generated results
+# results/
+
+# Optional: Node (if a JS subproject exists)
+node_modules/

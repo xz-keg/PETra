@@ -1,0 +1,35 @@
+Andaman and Nicobar Islands	AN	IN-AN
+Andhra Pradesh	AP	IN-AP
+Arunachal Pradesh	AR	IN-AR
+Assam	AS	IN-AS
+Bihar	BR	IN-BR
+Chandigarh	CH	IN-CH;CHD
+Chhattisgarh	CT	IN-CT;CG
+Dadra and Nagar Haveli and Daman and Diu	DN	IN-DN;DNH;DD
+Delhi	DL	IN-DL;DEL
+Goa	GA	IN-GA
+Gujarat	GJ	IN-GJ;GUJ
+Haryana	HR	IN-HR
+Himachal Pradesh	HP	IN-HP
+Jammu and Kashmir	JK	IN-JK
+Jharkhand	JH	IN-JH
+Karnataka	KA	IN-KA;KRN
+Kerala	KL	IN-KL;KER
+Lakshadweep	LD	IN-LD;LKP
+Madhya Pradesh	MP	IN-MP
+Maharashtra	MH	IN-MH;MAH
+Manipur	MN	IN-MN;MNP
+Meghalaya	ML	IN-ML;MEG
+Mizoram	MZ	IN-MZ;MIZ
+Nagaland	NL	IN-NL;NLD
+Odisha	OR	IN-OR;OD;Orissa
+Puducherry	PY	IN-PY;PDY
+Punjab	PB	IN-PB
+Rajasthan	RJ	IN-RJ;RAJ
+Sikkim	SK	IN-SK;SKM
+Tamil Nadu	TN	IN-TN
+Telangana	TG	IN-TG;TS
+Tripura	TR	IN-TR;TRP
+Uttar Pradesh	UP	IN-UP
+Uttarakhand	UT	IN-UT;UK;UA;Uttaranchal
+West Bengal	WB	IN-WB
