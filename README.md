@@ -11,7 +11,7 @@ Codebase for PETRA, built on Megatron-LM.
 "inference" for inferencing the model
 "petra_article.pdf", paper introducing petra
 
-model weights: to be uploaded on huggingface.
+model weights:[ on huggingface.](https://huggingface.co/xz-keg/PETRA/)
 
 Independent "Readme.txt" about the usage of data preprocess code and model training code can be found in their directories respectively. 
 
