@@ -15,7 +15,7 @@ model weights:[ on huggingface.](https://huggingface.co/xz-keg/PETRA/)
 
 Independent "Readme.txt" about the usage of data preprocess code and model training code can be found in their directories respectively. 
 
-Performance: 
+Performance(for 20250212 model, evaluated on seqs collected after 2025-2-12 and available before 2025-7-16)
 
 
 ---
